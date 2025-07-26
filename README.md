@@ -7,7 +7,7 @@ Date: 2025-07-17
 # thinkheads.ai Repository
 
 ## Company Overview
-thinkheads.ai is a personal, non-commercial platform dedicated to exploring the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) through hands-on projects. Operated solo, it serves as a learning lab and portfolio showcase, demonstrating technical expertise in AI-driven applications to potential employers in the AI industry. Hosted on a Proxmox server and a Linode cloud instance, thinkheads.ai leverages cutting-edge tools to build innovative tools like Learning Assistant, Meeting Room, Online Card Game, and User Profiles, reflecting a passion for AI’s ability to revolutionize productivity and education.
+Thinkheads.ai is a personal, non-commercial platform dedicated to exploring the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) through hands-on projects. Operated solo, it serves as a learning lab and portfolio showcase, demonstrating technical expertise in AI-driven applications to potential employers in the AI industry. Hosted on a Proxmox server and a Linode cloud instance, thinkheads.ai leverages cutting-edge tools to build innovative tools like Learning Assistant, Meeting Room, Online Card Game, and User Profiles, reflecting a passion for AI’s ability to revolutionize productivity and education.
 
 ## Business Model
 - **Purpose**: Non-commercial, focused on skill development and portfolio building.
